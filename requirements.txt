@@ -1,0 +1,4 @@
+albumentations
+cv2
+numpy
+tensorflow
